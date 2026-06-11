@@ -11,5 +11,5 @@ This repository documents everything.
 The labs. The confusion. The breakthroughs.
 No performance. Just honest work.
 
-enjoy the wonderful journey 
+# enjoy the wonderful journey
 
