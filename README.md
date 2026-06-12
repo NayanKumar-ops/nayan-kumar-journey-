@@ -1,6 +1,6 @@
 # Nayan Kumar — Cloud Security Journey
 
-18 years old. 
+18 years old
 Building toward Cloud Security Architect.
 
 Currently learning: Linux (Rocky Linux Minimal ISO)
