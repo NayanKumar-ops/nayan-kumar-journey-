@@ -11,5 +11,7 @@ This repository documents everything.
 The labs. The confusion. The breakthroughs.
 No performance. Just honest work.
 
-# enjoy the wonderful journeyyy
+# enjoy the wonderful journey 
+
+NAYAN KUMAR
 
